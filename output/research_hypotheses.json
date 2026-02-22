@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "铅暴露诱导星形胶质细胞代谢重编程",
+    "mechanism": "代谢重编程 (Warburg效应)",
+    "cell_type": "astrocyte",
+    "evidence": "肿瘤研究显示代谢重编程是细胞损伤的共同机制",
+    "prediction": "铅暴露后，星形胶质细胞中糖酵解基因(HK2, PKM)表达上调"
+  },
+  {
+    "id": 2,
+    "title": "铅暴露激活小胶质细胞免疫检查点",
+    "mechanism": "免疫逃逸",
+    "cell_type": "microglia",
+    "evidence": "肿瘤细胞通过PDL1逃避免疫监视",
+    "prediction": "铅暴露后，小胶质细胞PDL1(CD274)表达增加"
+  },
+  {
+    "id": 3,
+    "title": "铅暴露诱导神经元DNA损伤修复失调",
+    "mechanism": "DNA损伤修复",
+    "cell_type": "neuron",
+    "evidence": "重金属可导致基因组不稳定",
+    "prediction": "铅暴露后，神经元DNA修复基因(ATM, BRCA)表达改变"
+  },
+  {
+    "id": 4,
+    "title": "铅暴露加速少突胶质细胞衰老",
+    "mechanism": "细胞衰老",
+    "cell_type": "oligodendrocyte",
+    "evidence": "衰老相关分泌表型(SASP)可导致神经炎症",
+    "prediction": "铅暴露后，少突胶质细胞衰老标志物(P16, P21)表达增加"
+  }
+]
