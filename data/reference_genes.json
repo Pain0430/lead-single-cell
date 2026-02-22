@@ -1,0 +1,135 @@
+{
+  "cell_type_markers": {
+    "Excitatory_Neuron": [
+      "Slc17a7",
+      "Cux2",
+      "Rorb",
+      "Fezf2",
+      "Tle4"
+    ],
+    "Inhibitory_Neuron": [
+      "Gad1",
+      "Gad2",
+      "Pvalb",
+      "Sst",
+      "Htr3a",
+      "Vip"
+    ],
+    "Astrocyte": [
+      "Gfap",
+      "Aqp4",
+      "Slc1a3",
+      "Aldh1l1",
+      "S100b"
+    ],
+    "Microglia": [
+      "Cx3cr1",
+      "Itgam",
+      "Aif1",
+      "Tmem119",
+      "P2ry12"
+    ],
+    "Oligodendrocyte": [
+      "Olig2",
+      "Mbp",
+      "Plp1",
+      "Sox10",
+      "Mog"
+    ],
+    "OPC": [
+      "Pdgfra",
+      "Cspg4",
+      "Olig1",
+      "Nkx2-2"
+    ],
+    "Endothelial": [
+      "Cldn5",
+      "Flt1",
+      "Pecam1",
+      "Cdh5",
+      "Vwf"
+    ],
+    "Pericyte": [
+      "Pdgfrb",
+      "Col1a1",
+      "Acta2",
+      "Rgs5"
+    ]
+  },
+  "lead_genes": {
+    "oxidative_stress": [
+      "Sod1",
+      "Cat",
+      "Gpx1",
+      "Nqo1",
+      "Hmox1",
+      "Gclc"
+    ],
+    "inflammation": [
+      "Il6",
+      "Tnf",
+      "Cxcl8",
+      "Ccl2",
+      "Nfkb1",
+      "Ptgs2"
+    ],
+    "apoptosis": [
+      "Bcl2",
+      "Bax",
+      "Casp3",
+      "Trp53",
+      "Mdm2"
+    ],
+    "synaptic": [
+      "Snap25",
+      "Syn1",
+      "Dlg4",
+      "Grin1",
+      "Gria1"
+    ],
+    "metabolism": [
+      "Mtor",
+      "Ampk",
+      "Sirt1",
+      "Ppargc1a",
+      "Hif1a"
+    ]
+  },
+  "cancer_mechanism_genes": {
+    "metabolic_reprogramming": [
+      "Hk2",
+      "Pkm",
+      "Ldha",
+      "Pdha1",
+      "Idh1"
+    ],
+    "immune_evasion": [
+      "Cd274",
+      "Pdcd1",
+      "Ctla4",
+      "Tgfb1",
+      "Il10"
+    ],
+    "dna_damage": [
+      "Atm",
+      "ATR",
+      "Brca1",
+      "Brca2",
+      "Xrcc1"
+    ],
+    "cellular_senescence": [
+      "Cdkn1a",
+      "Cdkn2a",
+      "Glb1",
+      "Il6",
+      "Il8"
+    ],
+    "angiogenesis": [
+      "Vegfa",
+      "Kdr",
+      "Angpt1",
+      "Angpt2",
+      "Tie1"
+    ]
+  }
+}
